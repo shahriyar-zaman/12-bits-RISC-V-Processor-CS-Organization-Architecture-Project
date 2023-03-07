@@ -23,4 +23,7 @@ An assembler can convert assembly file code to machine code. For this project, I
 ## Project's Slide:
 [Project Topic_ Design a 12-bit Custom RISC-Microprocessor Project Members_ Md. Samin Israk 2021362642 Shahriyar Zaman Ridoy 2022299642 Jannat Sultana 2022217642 Zinnat Fowzia Ria 1931343042.pdf](https://github.com/shahriyar-zaman/12-bit-RISC-V-Processor-CS-Organization-Architecture-Project/files/9437634/Project.Topic_.Design.a.12-bit.Custom.RISC-Microprocessor.Project.Members_.Md.Samin.Israk.2021362642.Shahriyar.Zaman.Ridoy.2022299642.Jannat.Sultana.2022217642.Zinnat.Fowzia.Ria.1931343042.pdf)
 
+## Youtube's Presentation Link:
+https://www.youtube.com/watch?v=N6HuLgdxQAo&t=236s
+
 
